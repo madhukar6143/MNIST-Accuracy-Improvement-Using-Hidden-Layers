@@ -1,4 +1,6 @@
-This project explores the impact of adding hidden layers to a basic neural network model for classifying the MNIST handwritten digits. It includes training a simple neural network and then enhancing it by adding a hidden layer to improve accuracy. The project shows how network depth affects classification performance, and confusion matrices are used for visual evaluation of model predictions.
+This project explores the impact of adding hidden layers to a basic neural network model for classifying the MNIST handwritten digits. 
+It includes training a simple neural network and then enhancing it by adding a hidden layer to improve accuracy. 
+The project shows how network depth affects classification performance, and confusion matrices are used for visual evaluation of model predictions.
 
 
 **Content:**
