@@ -9,7 +9,6 @@ Dataset: MNIST Handwritten Digit Dataset
 **Models:**
 
 Model 1: Single-layer dense network with sigmoid activation
-
 Model 2: Two-layer dense network with ReLU and sigmoid activations
 
 **Comparison:**
